@@ -1,0 +1,1 @@
+i studied on the https://www.dofactory.com/javascript/design-patterns
