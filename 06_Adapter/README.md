@@ -1,5 +1,5 @@
 ## JavaScript Adapter Design Pattern
-<hr/>
+
 
 The Adapter pattern translates one interface (an object‘s properties and methods) to another. Adapters allows programming components to work together that otherwise wouldn&lstqup;t because of mismatched interfaces. The Adapter pattern is also referred to as the Wrapper Pattern.
 

@@ -1,5 +1,5 @@
 ## JavaScript Strategy Design Pattern
-<hr/>
+
 
 The Strategy pattern encapsulates alternative algorithms (or strategies) for a particular task. It allows a method to be swapped out at runtime by any other method (strategy) without the client realizing it. Essentially, Strategy is a group of algorithms that are interchangeable.
 
